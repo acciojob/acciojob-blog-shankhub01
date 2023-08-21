@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#h1{
+	
+	text-decoration:none;
+	color:black;
+	
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-decoration:underline;
+	color:#551a84;
+}
+img{
+	height:200px;
+}
+.h3,p{ color:#0303ee;
+	 text-decoration:underline;
+	}
+#p3{
+	color:#551a84;
+}
